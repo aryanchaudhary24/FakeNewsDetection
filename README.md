@@ -3,4 +3,4 @@ The "Fake News Detection" project is a valuable initiative that aims to tackle t
 
 # Publication as Research Paper 
 ``` sh
-    https://doi.org/10.5281/zenodo.10432632
+    [https://doi.org/10.5281/zenodo.10432632](https://zenodo.org/records/10432632)
